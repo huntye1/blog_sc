@@ -1,6 +1,10 @@
 module.exports = {
-  someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-  },
+  someSidebar:  ['vue3源码系列/vue_doc0','vue3源码系列/vue_doc1'],
+  // firstSidebar: {
+  //   'Category A': ['doc1'],
+  // },
+  // secondSidebar: {
+  //   'Category A': ['doc2'],
+  //   'Category B': ['doc3'],
+  // },
 };
