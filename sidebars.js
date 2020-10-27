@@ -1,5 +1,5 @@
 module.exports = {
-  someSidebar:  ['vue3源码系列/vue_doc0','vue3源码系列/vue_doc1'],
+  someSidebar: ['vue3源码系列/vue_doc0', 'vue3源码系列/vue_doc1', 'vue3源码系列/vue_doc2'],
   // firstSidebar: {
   //   'Category A': ['doc1'],
   // },
